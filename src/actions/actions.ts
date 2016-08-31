@@ -1510,7 +1510,7 @@ class CommandCenterScroll extends BaseCommand {
 }
 
 @RegisterAction
-class COmmandTopScroll extends BaseCommand {
+class CommandTopScroll extends BaseCommand {
   modes = [ModeName.Normal];
   keys = ["z", "t"];
 
